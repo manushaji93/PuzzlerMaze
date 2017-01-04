@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 3c8fb46d7ae78814ab75712243759c5c
+timeCreated: 1482926021
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PuzzlerSpriteSheet_0
+    21300002: PuzzlerSpriteSheet_1
+    21300004: PuzzlerSpriteSheet_2
+    21300006: PuzzlerSpriteSheet_3
+    21300008: PuzzlerSpriteSheet_4
+    21300010: PuzzlerSpriteSheet_5
+    21300012: PuzzlerSpriteSheet_6
+    21300014: PuzzlerSpriteSheet_7
+    21300016: PuzzlerSpriteSheet_8
+    21300018: PuzzlerSpriteSheet_9
+    21300020: PuzzlerSpriteSheet_10
+    21300022: PuzzlerSpriteSheet_11
+    21300024: PuzzlerSpriteSheet_12
+    21300026: PuzzlerSpriteSheet_13
+    21300028: PuzzlerSpriteSheet_14
+    21300030: PuzzlerSpriteSheet_15
+    21300032: PuzzlerSpriteSheet_16
+    21300034: PuzzlerSpriteSheet_17
+    21300036: PuzzlerSpriteSheet_18
+    21300038: PuzzlerSpriteSheet_19
+    21300040: PuzzlerSpriteSheet_20
+    21300042: PuzzlerSpriteSheet_21
+    21300044: PuzzlerSpriteSheet_22
+    21300046: PuzzlerSpriteSheet_23
+    21300048: PuzzlerSpriteSheet_24
+    21300050: PuzzlerSpriteSheet_25
+    21300052: PuzzlerSpriteSheet_26
+    21300054: PuzzlerSpriteSheet_27
+    21300056: PuzzlerSpriteSheet_28
+    21300058: PuzzlerSpriteSheet_29
+    21300060: PuzzlerSpriteSheet_30
+    21300062: PuzzlerSpriteSheet_31
+    21300064: PuzzlerSpriteSheet_32
+    21300066: PuzzlerSpriteSheet_33
+    21300068: PuzzlerSpriteSheet_34
+    21300070: PuzzlerSpriteSheet_35
+    21300072: PuzzlerSpriteSheet_36
+    21300074: PuzzlerSpriteSheet_37
+    21300076: PuzzlerSpriteSheet_38
+    21300078: PuzzlerSpriteSheet_39
+    21300080: PuzzlerSpriteSheet_40
+    21300082: PuzzlerSpriteSheet_41
+    21300084: PuzzlerSpriteSheet_42
+    21300086: PuzzlerSpriteSheet_43
+    21300088: PuzzlerSpriteSheet_44
+    21300090: PuzzlerSpriteSheet_45
+    21300092: PuzzlerSpriteSheet_46
+    21300094: PuzzlerSpriteSheet_47
+    21300096: PuzzlerSpriteSheet_48
+    21300098: PuzzlerSpriteSheet_49
+    21300100: PuzzlerSpriteSheet_50
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1026
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1026
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1026
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1026
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 905
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 910
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 903
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 909
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 786
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 786
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 786
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 787
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 645
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 652
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 652
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 655
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 510
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 515
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 357
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 357
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 357
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 357
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 357
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 357
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 357
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 357
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 233
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 233
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 233
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 233
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 233
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 233
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 233
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 233
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 127
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 127
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 127
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 127
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 127
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 127
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 127
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 68
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 68
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 68
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 68
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 68
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 68
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 68
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 29
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PuzzlerSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 29
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
